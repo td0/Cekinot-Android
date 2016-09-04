@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cekinot</string>
+    <string name="action_log">Daftar Skor</string>
+    <string name="action_reset">Ulang</string>
+    <string name="action_exit">Keluar</string>
+
+    <!-- NAMA -->
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player3">Player 3</string>
+    <string name="player4">Player 4</string>
+    <string-array name="player_name">
+        <item>@string/player1</item>
+        <item>@string/player2</item>
+        <item>@string/player3</item>
+        <item>@string/player4</item>
+    </string-array>
+
+    <string name="init">null</string>
+    <string name="init_score_submit">0</string>
+
+    <!-- PROMPT -->
+    <string name="name_prompt">Ganti Nama:</string>
+    <string name="prompt_ok">Budalno!</string>
+    <string name="prompt_cancel">Batal bro</string>
+    <string name="prompt_reset">Yakin pengen ngulang?</string>
+
+    <!-- LABEL -->
+    <string name="match_label"> x bermain</string>
+
+    <!-- TOAST -->
+    <string name="toast_input_invalid">Datanya salah bro, coba dicek lagi</string>
+    <string name="toast_incomplete">Sepuranya bruh, fitur yg ini blm jadi</string>
+    <string name="toast_reseted">Datanya dihapus lur, jangan dicariin</string>
+</resources>
